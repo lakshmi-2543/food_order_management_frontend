@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "https://lakshmi-2543.github.io/food_order_management_frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
